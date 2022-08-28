@@ -187,7 +187,7 @@ resize: none;
 
 .contactForm .InputBox input[type="submit"]{
     width: 100px;
-    background: #00bcd4;
+    background: #1306C7;
     color: #fff;
     border: none;
     cursor: pointer;
@@ -196,6 +196,7 @@ resize: none;
 }
 
 @media (max-width: 991px) {
+
     .contact
     {
         padding: 50px;
